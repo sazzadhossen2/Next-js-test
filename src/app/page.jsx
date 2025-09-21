@@ -12,7 +12,7 @@ export default function Todos() {
 
   return (
     <div>
-      <Menu />
+      {/* <Menu /> */}
       <h1>Home Page List</h1>
       <button onClick={Goto}>About Page</button>
     </div>
